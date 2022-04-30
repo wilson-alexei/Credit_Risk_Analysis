@@ -63,3 +63,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ## Summary 
 Of all the 6 models, `EasyEnsembleClasifier` is the best with the highest accuracy, precision, recall, and F-1. However, I would not recommend Jill to use any of these models as the precision scores for the high risk applications are very low. This may also lead to high number of False Negatives which causes the bank to lose lots of good(low risk) potential applications which can cost them their potential stream of revenues. 
+
+> LinkedIn: https://www.linkedin.com/in/wilson-alexei/
+
+> Email: wils.alexei@gmail.com
